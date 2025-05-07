@@ -44,7 +44,7 @@ gloss_embeddings.json
 ```
 
 They can be generated yourself with your model of choice using `bake_embeddings.py` or downloaded below
-[https://3to.moe/ieml/embeddings/](vhttps://3to.moe/ieml/embeddings/)
+[https://3to.moe/ieml/embeddings/](https://3to.moe/ieml/embeddings/)
 
 ## Usage
 
